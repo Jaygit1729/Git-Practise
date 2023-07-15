@@ -1,1 +1,1 @@
-hello, welcome to the git tutorial
+hello, welcome to the git tutorial. next i'll learn the git push, commit and branches of the git.
